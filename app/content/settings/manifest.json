@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "8MElBosque",
+  "shortName": "8M",
+  "description": "Mes de la mujer en El Bosque ",
+  "themeColor": "#a5e3ff",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "es"
 }
