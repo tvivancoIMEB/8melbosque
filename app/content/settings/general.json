@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "title": "8M El Bosque ",
+  "titleTemplate": "Municipalidad de El Bosque - Especial Mes de La Mujer",
+  "welcomeText": "# \"Mes de la Mujer 2025: 8M El Bosque avanza con fuerza de mujer\"\n\n\\\nEste marzo, El Bosque celebra la diversidad y la fortaleza de las mujeres que dan vida a nuestra comuna. En el marco del Mes de la Mujer, homenajearemos a 2000 vecinas a través de sus retratos, representando la riqueza y pluralidad de todas las mujeres bosquinas: trabajadoras, emprendedoras, estudiantes, cuidadoras, artistas y más.\n\nEstas imágenes reflejarán el esfuerzo, el compromiso y el coraje de quienes construyen día a día un El Bosque lleno de oportunidades e igualdad. \n\n¡Juntas avanzamos con fuerza de mujer! 💜",
+  "logo": "https://www.municipalidadelbosque.cl/wp-content/uploads/2023/09/EL-Bosque-logo-2023.png",
+  "icon": "https://www.municipalidadelbosque.cl/wp-content/uploads/2023/09/EL-Bosque-logo-2023.png",
+  "loadingColor": "#A1C658",
+  "seoDescription": "8M en El Bosque",
   "seoMetaImage": ""
 }
